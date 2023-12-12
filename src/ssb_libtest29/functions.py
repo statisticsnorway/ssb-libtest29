@@ -23,6 +23,7 @@ def is_prime(number: int) -> bool:
             return False
     return True
 
+
 def example_function(number1: int, number2: int) -> str:
     """Compare two integers.
 
